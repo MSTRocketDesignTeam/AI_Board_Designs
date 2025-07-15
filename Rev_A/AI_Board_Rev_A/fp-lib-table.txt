@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "M12_4Pin_Female_Library")(type "KiCad")(uri "${KIPRJMOD}/M12_4Pin_Female_Library.pretty")(options "")(descr ""))
+)
